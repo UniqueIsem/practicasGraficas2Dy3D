@@ -129,7 +129,7 @@ public class Escalamiento_4 {
 
     private void initComponents() {
         JFrame frame = new JFrame();
-        frame.setTitle("Traslacion");
+        frame.setTitle("Escalamiento");
         frame.setSize(width, height);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLocationRelativeTo(null);
